@@ -1,0 +1,4 @@
+Application (client) ID: 2fe944b8-0371-4142-a2fa-22379611106e
+Object ID: 3b1025d8-d580-419e-95a0-811e1021ef9b
+Tenant ID: e8a3605d-f922-4d8c-a58c-abbd55ceb970
+Secret: bbea92fa-f063-43cd-aaaa-ad2f3f31e0b1
